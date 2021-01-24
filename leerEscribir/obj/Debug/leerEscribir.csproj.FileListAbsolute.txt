@@ -1,0 +1,11 @@
+D:\Visual Studio\leerEscribir\leerEscribir\bin\Debug\leerEscribir.exe.config
+D:\Visual Studio\leerEscribir\leerEscribir\bin\Debug\leerEscribir.exe
+D:\Visual Studio\leerEscribir\leerEscribir\bin\Debug\leerEscribir.pdb
+D:\Visual Studio\leerEscribir\leerEscribir\obj\Debug\leerEscribir.csprojAssemblyReference.cache
+D:\Visual Studio\leerEscribir\leerEscribir\obj\Debug\leerEscribir.Form1.resources
+D:\Visual Studio\leerEscribir\leerEscribir\obj\Debug\leerEscribir.Form2.resources
+D:\Visual Studio\leerEscribir\leerEscribir\obj\Debug\leerEscribir.Properties.Resources.resources
+D:\Visual Studio\leerEscribir\leerEscribir\obj\Debug\leerEscribir.csproj.GenerateResource.cache
+D:\Visual Studio\leerEscribir\leerEscribir\obj\Debug\leerEscribir.csproj.CoreCompileInputs.cache
+D:\Visual Studio\leerEscribir\leerEscribir\obj\Debug\leerEscribir.exe
+D:\Visual Studio\leerEscribir\leerEscribir\obj\Debug\leerEscribir.pdb
